@@ -1,6 +1,6 @@
 # INT220 PROJECT
 #Ecommerce using Laravel
-    ### Ecommerce application
+    ## Ecommerce application
 # Install
   ##clone this repo
   ## copy this to htdocs in Xampp
