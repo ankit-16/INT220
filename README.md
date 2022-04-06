@@ -3,5 +3,5 @@
     ### Ecommerce application
 # Install
   ##clone this repo
-  ## copy this to htdocs in Xammp
+  ## copy this to htdocs in Xampp
   ## launch xampp
