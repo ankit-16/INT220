@@ -105,6 +105,6 @@ else {
              <li class="<?php if($page == $y){echo 'hide';} ?>"><a href="?page=<?php echo $page+1; ?>&per-page=15"><i class="material-icons">chevron_right</i></a></li>
            </ul>
            </div>
-   </div>
+</div>
 
 <?php require 'includes/footer.php'; ?>
